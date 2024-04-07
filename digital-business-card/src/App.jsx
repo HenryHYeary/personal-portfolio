@@ -22,7 +22,7 @@ function App() {
           <p className='paragraph'>I am a fullstack developer with over a thousand hours spent working in frontend and backend JS. I have a passion for learning
           new design patterns, and I have a particular interest in making visually engaging content.</p>
           <h2 className='sub-header'>Interests</h2>
-          <p className='paragraph'>Video game aficinado. Avid reader. Enjoyer of all genres of music and film. Rock climber and biker.</p>
+          <p className='paragraph'>Video game aficionado. Avid reader. Enjoyer of all genres of music and film. Rock climber and biker.</p>
        </div>
     </div>
     <div id="socials-bar">
