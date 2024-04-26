@@ -11,6 +11,10 @@ export default function App() {
       imageUrl={card.imageUrl}
       location={card.location}
       description={card.description}
+      startDate={card.startDate}
+      endDate={card.endDate}
+      googleMapsUrl={card.googleMapsUrl}
+      title={card.title}
     />
   })
 
